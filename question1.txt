@@ -1,0 +1,2 @@
+To solve this problem we will use a simple eqation to calculate the first options salary.
+For option two we will use a couple variables and a for loop to calculate the sum of our salary.
